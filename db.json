@@ -206,6 +206,19 @@
             "description" : "Confidence Painting is an artwork that depicts the confidence in yor mind or in your wings. It is colorful art perfect for people who loves bluebirds. Artwork is also fitting in time for Bluebird of Happiness Day.",
             "frame": true,
             "categoryId": 2
+        },
+        {
+            "id": 11,
+            "name": "Sunflowers",
+            "artistId": 10,
+            "pics": ["https://ik.imagekit.io/tkvucxczh/ReDI_School__Final_project__Art_Marketplace_/profilepage1.webp?updatedAt=1687968821429", "https://ik.imagekit.io/tkvucxczh/ReDI_School__Final_project__Art_Marketplace_/sunflowers1.jpg?updatedAt=1687968797744"],
+            "price": "1200",
+            "size": "24 x 30",
+            "materials": "Watercolors on canvas",
+            "year": "2023",
+            "description" : "The sunflowers themselves are painted in tones of mustard yellow, brown and green. They are shown in different stages of their life cycle, from young bud through to full maturity, to wilted decay.",
+            "frame": true,
+            "categoryId": 3
         }
     ],
 

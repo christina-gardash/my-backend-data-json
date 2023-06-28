@@ -4,64 +4,64 @@
             "id": 1,
             "fName": "Olivia",
             "lName": "Maison",
-            "email": "oliviamaison@email.com",
-            "password": "nfJHA7Gn"
+            "email": "o@email.com",
+            "password": "ooo"
         },
         {
             "id": 2,
-            "fName": "Jeremy",
+            "fName": "Ben",
             "lName": "Bishop",
-            "email": "jeremybishop@email.com",
-            "password": "d4EXGHL6"
+            "email": "b@email.com",
+            "password": "bbb"
         },
         {
             "id": 3,
-            "fName": "Kelly",
+            "fName": "Caitlyn",
             "lName": "Bryant",
-            "email": "kellybryant@email.com",
-            "password": "fy4ZMnj1"
+            "email": "c@email.com",
+            "password": "ccc"
         },
         {
             "id": 4,
             "fName": "Jade",
             "lName": "Mills",
-            "email": "jademills@email.com",
-            "password": "tpW2to7x"
+            "email": "j@email.com",
+            "password": "jjj"
         },
         {
             "id": 5,
             "fName": "Diane",
             "lName": "Copeland",
-            "email": "dianecopeland@email.com",
-            "password": "1GJiKL91"
+            "email": "d@email.com",
+            "password": "ddd"
         },
         {
             "id": 6,
             "fName": "Kent",
             "lName": "Rivers",
-            "email": "kentrivers@email.com",
-            "password": "5hc9m1ny"
+            "email": "k@email.com",
+            "password": "kkk"
         },
         {
             "id": 7,
             "fName": "Rosa",
             "lName": "Hampton",
-            "email": "rosahampton@email.com",
-            "password": "C6FhNUa0"
+            "email": "r@email.com",
+            "password": "rrr"
         },
         {
             "id": 8,
             "fName": "Nicholas",
             "lName": "Fitzgerald",
-            "email": "nicholasfitzgerald@email.com",
-            "password": "FERdrh5u"
+            "email": "n@email.com",
+            "password": "nnn"
         },
         {
             "id": 9,
             "fName": "Amber",
             "lName": "Parks",
-            "email": "amberparks@email.com",
-            "password": "Z9j5gNsh"
+            "email": "a@email.com",
+            "password": "aaa"
         },
         {
             "id": 10,
@@ -233,6 +233,7 @@
         {
             "id": 1,
             "artWorkId": 1,
+            "artistId": 1,
             "firstName": "John",
             "lastName": "Smith",
             "email": "johnsmith@email.com",
@@ -241,11 +242,13 @@
             "city": "Orlando, FL",
             "country": "the USA",
             "paymentMethod": "Paypal",
-            "deliveryType": "FedEx"  
+            "deliveryType": "FedEx",
+            "date": "20/05/2023"  
         },
         {
             "id": 2,
             "artWorkId": 3,
+            "artistId": 3,
             "firstName": "Zach",
             "lastName": "Carter",
             "email": "zachhhcarter@email.com",
@@ -254,11 +257,13 @@
             "city": "Phoenix, AZ",
             "country": "the USA",
             "paymentMethod": "Paypal",
-            "deliveryType": "FedEx"  
-        },
+            "deliveryType": "FedEx",
+            "date": "12/06/2023"   
+        }, 
         {
             "id": 3,
             "artWorkId": 5,
+            "artistId": 5,
             "firstName": "Daniela",
             "lastName": "Holland",
             "email": "daniella-daniella@email.com",
@@ -267,11 +272,13 @@
             "city": "Halle",
             "country": "Germany",
             "paymentMethod": "Visa/Mastercard",
-            "deliveryType": "Hermes"  
+            "deliveryType": "Hermes",
+            "date": "27/06/2023"    
         },
         {
             "id": 4,
             "artWorkId": 7,
+            "artistId": 7,
             "firstName": "Alisha",
             "lastName": "Trevino",
             "email": "alisha123@email.com",
@@ -280,11 +287,13 @@
             "city": "Freisen",
             "country": "Germany",
             "paymentMethod": "Visa/Mastercard",
-            "deliveryType": "DHL"  
+            "deliveryType": "DHL",
+            "date": "17/05/2023"    
         },
         {
             "id": 5,
             "artWorkId": 9,
+            "artistId": 9,
             "firstName": "Tristan",
             "lastName": "Pennington",
             "email": "trist.pennington@email.com",
@@ -293,11 +302,13 @@
             "city": "Karlstadt",
             "country": "Germany",
             "paymentMethod": "Klarna",
-            "deliveryType": "Hermes"  
+            "deliveryType": "Hermes",
+            "date": "28/04/2023"    
         },
         {
             "id": 6,
             "artWorkId": 2,
+            "artistId": 2,
             "firstName": "Samir",
             "lastName": "Palmer",
             "email": "samirpalmer@email.com",
@@ -306,11 +317,13 @@
             "city": "Munich",
             "country": "Germany",
             "paymentMethod": "Visa/Mastercard",
-            "deliveryType": "DHL"  
+            "deliveryType": "DHL",
+            "date": "03/06/2023"    
         },
         {
             "id": 7,
             "artWorkId": 4,
+            "artistId": 4,
             "firstName": "Lilly-Rose",
             "lastName": "Jordan",
             "email": "lillyJ@email.com",
@@ -319,11 +332,13 @@
             "city": "Munich",
             "country": "Germany",
             "paymentMethod": "Paypal",
-            "deliveryType": "DHL"  
+            "deliveryType": "DHL",
+            "date": "29/05/2023"    
         },
         {
             "id": 8,
             "artWorkId": 6,
+            "artistId": 6,
             "firstName": "Sahar",
             "lastName": "Benson",
             "email": "sahar.benson@email.com",
@@ -332,11 +347,13 @@
             "city": "Paris",
             "country": "France",
             "paymentMethod": "Klarna",
-            "deliveryType": "Hermes"  
+            "deliveryType": "Hermes",
+            "date": "20/05/2023"   
         },
         {
             "id": 9,
             "artWorkId": 8,
+            "artistId": 8,
             "firstName": "Irene",
             "lastName": "Shaffer",
             "email": "ireneshaffer@email.com",
@@ -345,11 +362,13 @@
             "city": "London",
             "country": "the UK",
             "paymentMethod": "Visa/Mastercard",
-            "deliveryType": "Hermes"  
+            "deliveryType": "Hermes",
+            "date": "14/06/2023"    
         },
         {
             "id": 10,
             "artWorkId": 10,
+            "artistId": 10,
             "firstName": "Carlos",
             "lastName": "Bates",
             "email": "carlosbates@email.com",
@@ -358,7 +377,8 @@
             "city": "Berlin",
             "country": "Germany",
             "paymentMethod": "Visa/Mastercard",
-            "deliveryType": "DHL"  
+            "deliveryType": "DHL",
+            "date": "02/06/2023"    
         }
     ],
 
@@ -370,27 +390,32 @@
         {
             "id": 1, 
             "name": "Abstract",
-            "pic": "https://ik.imagekit.io/tkvucxczh/ReDI_School__Final_project__Art_Marketplace_/categor1.jpg?updatedAt=1687264681032"
+            "pic": "https://ik.imagekit.io/tkvucxczh/ReDI_School__Final_project__Art_Marketplace_/categor1.jpg?updatedAt=1687264681032",
+            "desc": "This art form has as its main objective to provide viewers with an intangible and emotional experience, being completely different for each individual, depending on their personality and mood."
         },
         {
             "id": 2, 
             "name": "People",
-            "pic": "https://ik.imagekit.io/tkvucxczh/ReDI_School__Final_project__Art_Marketplace_/categor2.jpg?updatedAt=1687264680914"
+            "pic": "https://ik.imagekit.io/tkvucxczh/ReDI_School__Final_project__Art_Marketplace_/categor2.jpg?updatedAt=1687264680914",
+            "desc": "Portraiture art is all about the unique touch of the artist that affects the way a portrait is created, and which stays in the viewer’s memory forever. If you're an art collector looking to own a portrait, choose and buy portraiture art!"
         },
         {
             "id": 3, 
             "name": "Summertime",
-            "pic": "https://ik.imagekit.io/tkvucxczh/ReDI_School__Final_project__Art_Marketplace_/categor3.jpg?updatedAt=1687265463646"
+            "pic": "https://ik.imagekit.io/tkvucxczh/ReDI_School__Final_project__Art_Marketplace_/categor3.jpg?updatedAt=1687265463646",
+            "desc": "As warm sunlight gives the world a beautiful glow and crowds flock to the beach, we bring you a curated selection of famous paintings that capture the essence of the season."
         },
         {
             "id": 4, 
             "name": "City views",
-            "pic": "https://ik.imagekit.io/tkvucxczh/ReDI_School__Final_project__Art_Marketplace_/categor4.jpg?updatedAt=1687264680913"
+            "pic": "https://ik.imagekit.io/tkvucxczh/ReDI_School__Final_project__Art_Marketplace_/categor4.jpg?updatedAt=1687264680913",
+            "desc": "The vibrancy and majesty of the world's greatest cities have inspired artists for many years. overstockArt brings you views of the metropolis, American and European, through different eyes and sensibilities. Our paintings include those of some of the masters of the art world."
         },
         {
             "id": 5, 
             "name": "Nature",
-            "pic": "https://ik.imagekit.io/tkvucxczh/ReDI_School__Final_project__Art_Marketplace_/categor5.jpg?updatedAt=1687265398012"
+            "pic": "https://ik.imagekit.io/tkvucxczh/ReDI_School__Final_project__Art_Marketplace_/categor5.jpg?updatedAt=1687265398012",
+            "desc": "A pure fascination for artists, nature is a great setting onto which inner feelings and progressive ideas of the new aesthetic language and trends can be imprinted."
         }
     ]
 }

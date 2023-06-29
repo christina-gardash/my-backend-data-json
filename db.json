@@ -245,6 +245,7 @@
     "ordersInfo": [
         {
             "id": 1,
+            "amount": "1200",
             "artWorkId": 1,
             "artistId": 1,
             "firstName": "John",
@@ -260,6 +261,7 @@
         },
         {
             "id": 2,
+            "amount": "800",
             "artWorkId": 3,
             "artistId": 3,
             "firstName": "Zach",
@@ -275,6 +277,7 @@
         }, 
         {
             "id": 3,
+            "amount": "1200",
             "artWorkId": 5,
             "artistId": 5,
             "firstName": "Daniela",
@@ -290,6 +293,7 @@
         },
         {
             "id": 4,
+            "amount": "900",
             "artWorkId": 7,
             "artistId": 7,
             "firstName": "Alisha",
@@ -305,6 +309,7 @@
         },
         {
             "id": 5,
+            "amount": "1200",
             "artWorkId": 9,
             "artistId": 9,
             "firstName": "Tristan",
@@ -320,6 +325,7 @@
         },
         {
             "id": 6,
+            "amount": "1300",
             "artWorkId": 2,
             "artistId": 2,
             "firstName": "Samir",
@@ -335,6 +341,7 @@
         },
         {
             "id": 7,
+            "amount": "1700",
             "artWorkId": 4,
             "artistId": 4,
             "firstName": "Lilly-Rose",
@@ -350,6 +357,7 @@
         },
         {
             "id": 8,
+            "amount": "1400",
             "artWorkId": 6,
             "artistId": 6,
             "firstName": "Sahar",
@@ -365,6 +373,7 @@
         },
         {
             "id": 9,
+            "amount": "1200",
             "artWorkId": 8,
             "artistId": 8,
             "firstName": "Irene",
@@ -380,6 +389,7 @@
         },
         {
             "id": 10,
+            "amount": "1200",
             "artWorkId": 10,
             "artistId": 10,
             "firstName": "Carlos",
